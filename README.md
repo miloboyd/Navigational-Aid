@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project aims to develop a system for blind and low vision sailors, in partnership with [sailability NSW](https://sailabilitynsw.com.au/). The system integrates GPS, LoRa and ESP32 hardware to enable real-time feedback and collision avoidance with other boats. Spoken readings are generated through text-to-speech alerts, providing distance and bearing with clock-position announcements. 
+This project aims to develop a GPS navigation system system for vision-impaired sialors to enable safer racing, in partnership with [sailability NSW](https://sailabilitynsw.com.au/). The system integrates GPS, LoRa and ESP32 hardware to enable real-time feedback and collision avoidance with other boats. Spoken readings are generated through text-to-speech alerts, providing distance and bearing with clock-position announcements. 
 
 ### Demo
 
